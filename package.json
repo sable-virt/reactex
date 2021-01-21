@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/frontainer/reactex#readme",
   "dependencies": {
-    "immer": "^6.0.1",
+    "immer": "^8.0.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "typescript-fsa": "^3.0.0"
